@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/modernweb-2019",
+      "status": 301,
+      "headers": { "Location": "/modernweb-2019/" }
+    }
+  ]
+}
