@@ -1,3 +1,7 @@
 [submodule "themes/hallo"]
 	path = themes/hallo
 	url = https://github.com/janbaudisch/zola-hallo.git
+[submodule "public"]
+	path = public
+	url = https://github.com/rust-tw/rust-lang.tw.git
+	branch = gh-pages
