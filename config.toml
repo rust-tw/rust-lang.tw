@@ -13,6 +13,8 @@ build_search_index = false
 
 theme = "hallo"
 
+title = "Rust Taiwan Community"
+
 [extra]
 # Put all your custom variables here
 author = { name = "Rust Taiwan" }
