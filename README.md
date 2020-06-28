@@ -13,23 +13,3 @@ cargo install --git https://github.com/getzola/zola
 ```
 zola serve
 ```
-
-## Deploy
-
-### 1. Install Now CLI
-
-```
-npm install -g now
-```
-
-### 2. Login
-
-```
-now login && now switch rust-tw
-```
-
-### 3. Deploy
-
-```
-now --prod
-```
